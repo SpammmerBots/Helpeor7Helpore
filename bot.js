@@ -282,6 +282,146 @@ var channel = "502827265281884161";//ايدي الروم
     },10065);
 })
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ , TM TOP TL MQ ,V**')
+    },10370);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ ,  BRO EH MALK FE EH ♥ , **')
+    },10675);
+})
+
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p ,v ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p , ----t---o--p ,**')
+    },100980);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]]]]]]]]]TOP[[[[[[[[T]]]]]][O]]]]]][P]]]**')
+    },11285);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**&&&&&&WELCOME$$$$$$$$%%%%%^6^&&*$#%$@#$@#$@#%$#%#$^$%^$%#$2#$@#$@#$@#$@$@#$@#$%$#%#$^hhhhhhjjjjjjjjjjgsdfSdasdfa**')
+    },11590);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**hihihihhihhihihihihiihihihihhhhiihihhiihihihihihhihhihihihihihihhihihihihihihihihihihihihihihihihihihihihihiiihhihihhihihihhihihihihhihihihihihihihhihihihihihihihihihihihihihihihihihihihihihihhihihihhihihhihihhihihihihihihihihihihihhihihihihhihihhihihhihihihihhihihhihihihhiihihihihihih**')
+    },11895);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF((())))))(())((IDSERVERWELCOMASANASSDNAJFAFAF**')
+    },12200);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**sasaasasaaasasasasasasatoptototottototototos , tottotototot , tototootototot ,, ootoottototo , to otp ot m))(())((IDSERVERWELCOMASANASSDNAJFAFAsasaaasasasasasasatoptototottototototos , tottotototot , tototootototot ,, ootoottototo , to otp ot m))(())((IDSERVERWELCOMASANASSDNAJFAFAsasaaasasasasasasatoptototottototototos , tottotototot , tototootototot ,, ootoottototo , to otp ot m))(())((IDSERVERWELCOMASANASSDNAJFAFAasasasasasasatoptototottototototos , tottotototot , tototootototot ,, ootoottototo , to otp ot m))(())((IDSERVERWELCOMASANASSDNAJFAFAF**')
+    },12505);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS ,  FS, FS , FPS , **')
+    },12810);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U ,  Helper U , **')
+    },13115);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   H ELLO BRO , WELCOME TO MAL SHOP ♥   **')
+    },13420);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO ,  OOOOOOOO , OOOTOOOOOOOOO , **')
+    },13725);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME   YIYIYIIYIIYIYIYIYIYIY , WELCOME  **')
+    },14030);
+})
+
+
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**   M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦    M4 , 3ARF AKTEP EH TANY , ♦ **')
+    },14335);
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -302,7 +442,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
 client.on('ready', () => {
-  client.user.setGame(`»New Server Shop ♥  .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»New Server Shop ♥ 1K SooN!  .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
