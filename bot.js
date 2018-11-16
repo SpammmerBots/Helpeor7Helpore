@@ -404,19 +404,116 @@ var channel = "502827265281884161";//ايدي الروم
 })
 
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** - Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.- Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼, your :credit_card: balance is $438146.**')
+    },14640);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**:pencil2:  Role Name Updated Old Spammer 10k Credit 1 DAY Spammer 10k Credit 1 DAY  510778726297108486 - Mál ,ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle≽ܫ≼   Today at 1:11 PM **')
+    },14945);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif , https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif **')
+    },15250);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,Vhttps://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,https://cdn.pg.sa/ZzCBpPDFgM.png ,**')
+    },15555);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png https://cdn.pg.sa/apefFQQReQ.png**')
+    },15860);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**عـــــــــــََر بـــــــــــــي تََــــــــــــــوب**')
+    },16165);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**نــــــــــــــــــااااااو سبـــــــام عربي ♥**')
+    },16470);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**منورينالسرفر ♥ توب توب توب توب توب توب توب توب تبوب ههههههه♥**')
+    },16775);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**كرويت كرويت كرديت توب ت هاي ♥**')
+    },17080);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥ وسرفر منور  ,  ♥♥**')
+    },17385);
+})
 
 
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**ههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه**')
+    },17690);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥ ولكـــــم ,  WELCOME ♥**')
+    },17995);
+})
 
-
-
-
-
-
-
-
-
-
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to ارحب ارحب ارحب , 阿克萨卡萨德卡克斯达克思达三大to♥**')
+    },18300);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** 阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و , V 阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و , V 阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫科工贸马克思大副们卡苏莫夫苏卡姆苏丹国卡萨南方更各色的帆板司机告诉八个角色 و ,  阿阿萨打扫打扫达到大概萨莫萨南方更各色的帆板司机告诉八 و , **')
+    },18605);
+})
 
 
 
@@ -442,7 +539,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
 client.on('ready', () => {
-  client.user.setGame(`»New Server Shop ♥ 1K SooN!  .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»New Server Shop »1K SooN!  .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
