@@ -198,13 +198,89 @@ var channel = "502827265281884161";//ايدي الروم
     },7015);
 })
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL , BEL ,**')
+    },7320);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U OPTOP,LIVE,LOVE U**')
+    },7625);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥  0A1TOPING, ♥**')
+    },7930);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** 7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ ,  7top , ALONE ♥ , **')
+    },8235);
+})
 
 
 
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥ SERVER TOP SPAMMER :D :D , ♥**')
+    },8540);
+})
 
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥ 87979,♥**')
+    },8845);
+})
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77)  (77),(77) **')
+    },9150);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** IAM TOP ♥  AM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥ V IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥ V IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥ V IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥ V IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥  IAM TOP ♥ **')
+    },9455);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**02LCOME TOaaelp02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help02LCOME TO help**')
+    },9760); 
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** 99997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome 9997313 welcome **')
+    },10065);
+})
 
 
 
