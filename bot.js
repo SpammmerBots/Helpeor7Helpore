@@ -174,7 +174,7 @@ var channel = "502827265281884161";//ايدي الروم
     },6100);
 })
 
-cclient.on('ready', async() => {
+client.on('ready', async() => {
 var server = "499213116941533184"; // ايدي السررفر
 var channel = "502827265281884161";//ايدي الروم
     setInterval(()=>{
@@ -189,6 +189,13 @@ var channel = "502827265281884161";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥**')
     },6710);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**ABC TOP ABC TOP MAL MORE SPAMMER TOP HEY WELCOME BACK ♥  ♥**')
+    },7015);
 })
 
 
