@@ -112,9 +112,84 @@ var channel = "502827265281884161";//ايدي الروم
     },3965);
 })
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d 2W3y yad  , kotr spam , bygyp cREDIT , :d**')
+    },4270);
+})
 
 
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d Wsa3 le t2el yad WSa3 yad Back to spammer ♥:d**')
+    },4575);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**Hi ♥**')
+    },4880);
+})
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**EH R2YAK FE SPAM BT3NA YAD EH MALK 4YFAK SKET LEK KDA MA TTKLEM H**')
+    },5185);
+})
+
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**3ARD SPAMMER GDED Twsal m3ya 5ass,3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass,3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass3ARD SPAMMER GDED Twsal m3ya 5ass**')
+    },5490);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**al3b al3b HUB CREDIT OOOMGGG YA D OF OF OF OF OF OF A7LA SPAMMER DA WLA EH QQ YAD♥**')
+    },5795);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , YA WLAD 3LA SPAMER , ♥**')
+    },6100);
+})
+
+cclient.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**wrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3nawrbna m3na **')
+    },6405);
+})
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥SooN! GIVEAAWAYs 3la Bots Spammer HUB HUB HUB  ♥**')
+    },6710);
+})
 
 
 
@@ -144,7 +219,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
 client.on('ready', () => {
-  client.user.setGame(`»Tφp★ .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»New Server Shop ♥  .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
