@@ -1068,16 +1068,16 @@ var channel = "502827265281884161";//ايدي الروم
 })
 ////////////////
 client.on('ready', async() => {
-var server = "512922467417718784"; // ايدي السررفر
-var channel = "513749789436018688";//ايدي الروم
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#daily')
     },8.64e+7);
 })
 
 client.on('ready', async() => {
-var server = "512922467417718784"; // ايدي السررفر
-var channel = "513749789436018688";//ايدي الروم
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#rep <@411137717884289024>')
     },8.64e+7);
@@ -1144,7 +1144,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
 client.on('ready', () => {
-  client.user.setGame(`»50k A 1 Day ♥♥ .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`» ♥♥ .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
