@@ -1092,7 +1092,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
 client.on('ready', () => {
-  client.user.setGame(`»50k A 1 Day !  .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»50k A 1 Day ♥♥ .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
