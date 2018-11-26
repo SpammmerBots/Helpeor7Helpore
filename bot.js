@@ -15,11 +15,11 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const prefix = '9';
+const prefix = '1';
 
 client.on('ready', function() {
 
-    console.log(`ءلبوت ءلقمدن ءونلاين هه يدينم ${client.user.username}`);
+    console.log(`مش هتوصل لنا ♥ ${client.user.username}`);
 
 });
 
