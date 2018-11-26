@@ -15,7 +15,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const prefix = '1';
+const prefix = 'm';
 
 client.on('ready', function() {
 
@@ -181,9 +181,9 @@ ${videoInfo.title}
 
                client.user.setActivity(videoInfo.title, {type:'LISTENING'});
 
-                });
+                });////////////////Mal Team//////By:Mahmoud-Quatyle////////////
 
-            });
+            });////////////////Mal Team//////By:Mahmoud-Quatyle////////////
 
         }
 
@@ -201,7 +201,7 @@ ${videoInfo.title}
 
             if (message.guild.voiceConnection) message.guild.voiceConnection.disconnect();
 
-        });
+        });////////////////Mal Team//////By:Mahmoud-Quatyle////////////
 
     }
 
@@ -229,43 +229,43 @@ ${videoInfo.title}
 
             dispatcher.pause();
 
-        });
+        });////////////////Mal Team//////By:Mahmoud-Quatyle////////////
 
     }
 
     else if (mess.startsWith(prefix + 'resume')) {
 
-        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');
+        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');//////////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
             message.channel.send('**⏯ Resuming 👍**').then(() => {
 
             dispatcher.resume();
 
-        });
+        });////////////////////////////////////By:Mahmoud-Quatyle////////////////
 
     }
 
-    else if (mess.startsWith(prefix + 'leave')) {
+    else if (mess.startsWith(prefix + 'leave')) {////////////////////////Mal Team//////By:Mahmoud-Quatyle////////////////
 
-        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');
+        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');//////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
         message.channel.send('**📭 Successfully disconnected**');
 
         var server = server = servers[message.guild.id];
 
-        if (message.guild.voiceConnection) message.guild.voiceConnection.disconnect();
+        if (message.guild.voiceConnection) message.guild.voiceConnection.disconnect();////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
     }
 
     else if (mess.startsWith(prefix + 'join')) {
 
-        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');
+        if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');/////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
-        message.member.voiceChannel.join().then(message.channel.send('**👍 Joined**'));
+        message.member.voiceChannel.join().then(message.channel.send('**👍 Joined**'));//////////////////////////////////////////By:Mahmoud-Quatyle
 
     }
 
-    else if (mess.startsWith(prefix + 'play')) {
+    else if (mess.startsWith(prefix + 'play')) {//////////////////////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
         if (!message.member.voiceChannel) return message.channel.send('**❌ You have to be in a voice channel to use this command.**');
 
@@ -356,7 +356,7 @@ function playMusic(id, message) {
 
         });
 
-    });
+    });/////////////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
 }
 
@@ -410,7 +410,7 @@ function search_video(query, cb) {
     });
 
 }
-
+//////////////////////////////////////////////////////////////////////By:Mahmoud-Quatyle
 
 
 function isYoutube(str) {
@@ -446,7 +446,7 @@ function isYoutube(str) {
 
 const developers = ["411137717884289024","another id","another another id"]
 
-const adminprefix = '1';
+const adminprefix = '1';////////////////////////////////////////////////By:Mahmoud-Quatyle
 
 client.on('message', message => {
 
@@ -474,7 +474,7 @@ client.on('message', message => {
 
                         .setColor('RANDOM')
 
-                 .addField("**PLAYING 🎮 **","** **")
+                 .addField("**PLAYING 🎮 **","** **")///////////////////////////By:Mahmoud-Quatyle
 
          message.channel.send({embed:embed});
 
@@ -562,7 +562,7 @@ client.on('message', message => {
 
          message.channel.send({embed:embed});
 
-                        }
+                        }////////////////////////By:Mahmoud-Quatyle
 
   if (message.content.startsWith(adminprefix + 'setname')) {
 
@@ -580,7 +580,7 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 
 }
 
-});
+});////////////////////////By:Mahmoud-Quatyle
 
 
 
@@ -612,13 +612,14 @@ client.on('message', message => {
 
     .setDescription(`
 	 ** اوامر الموسيقى 🎶 **
-**${prefix}play** : لتشغيل الاغاني
-**${prefix}skip** : لتخطي الاغنية
-**${prefix}volume** : لتحديد مستوى الصوت
-**${prefix}pause** : للأيقاف المؤقت
-**${prefix}resume** : للأستئناف
-**${prefix}join** : لكي ينضم البوت للروم الصوتي
-**${prefix}leave** : لكي يخرج البوت من الروم الصوتي
+**__${prefix}play__** : لتشغيل الاغاني
+**__${prefix}skip__** : لتخطي الاغنية
+**__${prefix}volume__** : لتحديد مستوى الصوت
+**__${prefix}pause__** : للأيقاف المؤقت
+**__${prefix}resume__** : للأستئناف
+**__${prefix}join__** : لكي ينضم البوت للروم الصوتي
+**__${prefix}leave__** : لكي يخرج البوت من الروم الصوتي
+**Owner Bot**: <@411137717884289024> 
 `)
 
 .setColor('RANDOM')
@@ -627,7 +628,7 @@ message.author.sendEmbed(embed)
 
 }
 
-});
+});////////////////////////By:Mahmoud-Quatyle
 ////////////////////////By:Mahmoud-Quatyle
 
 
@@ -641,7 +642,8 @@ client.on('message', msg => {
 
   }
 
-});
+});////////////////////////By:Mahmoud-Quatyle
+////////////////////////By:Mahmoud-Quatyle
 
 ////////////////////////By:Mahmoud-Quatyle
 
