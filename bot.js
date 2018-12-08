@@ -15,7 +15,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const prefix = 'm';
+const prefix = 'F';
 
 client.on('ready', function() {
 
@@ -619,7 +619,6 @@ client.on('message', message => {
 **__${prefix}resume__** : للأستئناف
 **__${prefix}join__** : لكي ينضم البوت للروم الصوتي
 **__${prefix}leave__** : لكي يخرج البوت من الروم الصوتي
-**Owner Bot**: <@411137717884289024> 
 `)
 
 .setColor('RANDOM')
