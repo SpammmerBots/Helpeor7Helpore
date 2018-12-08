@@ -15,7 +15,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const prefix = 'm';
+const prefix = 'Fs';
 
 client.on('ready', function() {
 
@@ -98,7 +98,7 @@ client.on('message', function(message) {
 
                 .setFooter('' + message.author.tag)
 
-                .setDescription('**1play [Link or query]**')
+                .setDescription('**Fsplay [Link or query]**')
 
             message.channel.sendEmbed(play_info)
 
