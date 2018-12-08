@@ -333,7 +333,30 @@ function play(guild, song) {
 
 
 
+client.on('message', message => {
+    if (message.content === '$help') {
+        let helpEmbed = new Discord.RichEmbed()
+        .setTitle('**أوامر الميوزك...**')
+        .setDescription('**برفكس البوت !1**')
+        .addField('play', 'لتشغيل اغنية')
+        .addField('join', 'دخول رومك الصوتي')
+        .addField('disconnect', 'الخروج من رومك الصوتي')
+        .addField('skip', 'تخطي الأغنية')
+        .addField('pause', 'ايقاف الاغنية مؤقتا')
+        .addField('resume', 'تكملة الاغنية')
+        .addField('queue', 'اظهار قائمة التشغيل')
+        .addField('np', 'اظهار الاغنية اللي انت مشغلها حاليا')
+        .setFooter('(general_commands) لاظهار الاوامر العامة')
+      message.channel.send(helpEmbed);
+    }
+});
 
+client.on('ready', () => {
+  client.user.setGame('$help $play ','https://www.twitch.tv/quastyle11');
+  console.log('---------------');
+  console.log(' Bot Is Online')
+  console.log('---------------')
+});
 
 
 
